@@ -1,7 +1,3 @@
-# Secret-project
-
-....
-..
-.....
-
+# Omnifood
+a food site for everyone. 
 
