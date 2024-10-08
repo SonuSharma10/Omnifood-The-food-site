@@ -1,3 +1,3 @@
 # Omnifood
-a static food ordering and restaurant site for everyone. 
+##A static food ordering and restaurant site for everyone. 
 
